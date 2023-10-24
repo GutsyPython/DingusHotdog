@@ -1,6 +1,6 @@
-#site {
-  text-align: center;
-}
-body {
+.site {
   background-color: #11bf74;
+}
+.article {
+  text-align: center;
 }
