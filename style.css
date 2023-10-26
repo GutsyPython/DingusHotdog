@@ -1,6 +1,6 @@
-.site {
+.body {
   background-color: #11bf74;
 }
-.article {
+.stuff, h1, h2, ol, p, figcaption, img, article, src, input, ul, a, div {
   text-align: center;
 }
