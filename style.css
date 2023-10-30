@@ -4,3 +4,6 @@
 .stuff, h1, h2, ol, p, figcaption, img, article, src, input, ul, a, div {
   text-align: center;
 }
+.stuff, h1, h2, ol, p, figcaption, article, a, input, ul, a, div {
+  font-family: "Brush Script MT", cursive;
+}
