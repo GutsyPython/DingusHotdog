@@ -7,6 +7,6 @@
 .stuff, h1, h2, h6, ol, p, figcaption, article, a, input, ul, a, div {
   font-family: "Brush Script MT", cursive;
 }
-#h6 {
+h6 {
   transform: rotate(-25deg)
 }
