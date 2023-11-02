@@ -3,6 +3,7 @@ body {
 }
 h1, p{
   text-align: center
+  font-family: garamond, serif;
 }
 a {
   color: red
