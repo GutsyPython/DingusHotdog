@@ -2,7 +2,7 @@ body {
   background-color: blue
 }
 h1, p{
-  text-align: center
+  text-align: center;
   font-family: garamond, serif;
 }
 a {
