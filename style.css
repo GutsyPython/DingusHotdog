@@ -1,10 +1,10 @@
 .body {
   background-image: url(https://www.dairyqueen.com/dA/0ee9fa67f7/classic-hot-dog.png/600w)
 }
-.stuff, h1, h2, h6, ol, p, figcaption, img, article, src, input, ul, a, div {
+.stuff, h1, h2, h3, h6, ol, p, figcaption, img, article, src, input, ul, a, div {
   text-align: center;
 }
-.stuff, h1, h2, h6, ol, p, figcaption, article, a, input, ul, a, div {
+.stuff, h1, h2, h3, h6, ol, p, figcaption, article, a, input, ul, a, div {
   font-family: "Brush Script MT", cursive;
 }
 h6 {
