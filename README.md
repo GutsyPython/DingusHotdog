@@ -1,2 +1,2 @@
 # GutsyPython.github.io
-i'm tryna make a website wish me luck
+https://gutsypython.github.io/DingusHotdog/
